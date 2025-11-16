@@ -1,0 +1,42 @@
+{
+  "name": "quantum-blue-theme",
+  "displayName": "Quantum Blue Dark Theme",
+  "description": "A modern, clean dark theme with deep navy blue tones and vibrant syntax highlighting",
+  "version": "1.0.0",
+  "publisher": "6233c1c4-89f3-48cf-8c88-156b07876860",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue theme",
+    "quantum",
+    "navy blue",
+    "quantum blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quantum Blue Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quantum-blue-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YasserElgammal/quantum-blue-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/YasserElgammal/quantum-blue-theme/issues"
+  },
+  "icon": "./images/icon.png",
+  "galleryBanner": {
+    "color": "#050B1A",
+    "theme": "dark"
+  }
+}
