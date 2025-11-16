@@ -27,3 +27,13 @@ Open VS Code → Extensions tab → search:
 
 ---
 
+## 🤝 Contributing
+
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you’d like to modify.
+
+---
+
+## ⚖️ License
+
+MIT © 2025 **Yasser Elgammal**
