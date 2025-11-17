@@ -13,6 +13,11 @@
 - ⚡ Lightweight and fast — zero performance overhead  
 
 ---
+## 📷 Preview
+
+<img src="https://live.staticflickr.com/65535/54931085800_d17af2003e_b.jpg" width="750" alt="Quantum Blue Dark Theme - YasserElgammal">
+
+---
 
 ## 🚀 Installation
 
